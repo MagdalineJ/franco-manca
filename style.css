@@ -43,7 +43,7 @@ section{
     .red{
         color: red;
     }
-    section{
+    .two{
         display: flex;
       
     
@@ -57,7 +57,7 @@ section{
          text-decoration: none;
         border-radius: 25px;
         padding:10px 20px;
-        background-image: linear-gradient(orange,tomato);
+        background-image: linear-gradient(pink, maroon);
         color: white;
         font-weight: 700;
         }
@@ -67,3 +67,43 @@ section{
            background-image: url( Frame\ 58\ \(1\).png);
        }
     
+.one{
+    text-align: center;
+    font-weight: 400;
+    margin: 100px 300px;
+    width:900px;
+    height: 150px;
+}
+.four{
+    padding:10px;
+    border-top:5px blue solid;
+    margin:30px;
+    border-radius: 25px;
+    box-shadow: 5px 5px 5px 5px;
+}
+.five{
+    margin:30px;
+    border-top:5px red solid;
+    padding: 10px;
+    border-radius: 25px;
+    box-shadow: 5px 5px 5px 5px;
+}
+.six{
+    border-top:5px green solid;
+    margin:30px;
+    padding:10px;
+    border-radius: 25px;
+    box-shadow: 5px 5px 5px 5px;
+}
+#menus{
+
+    margin-left: 250px;
+    margin-right: 250px;
+    display: flex;
+    width:100%;
+    
+}
+.three{
+    text-align: center;
+    font-weight: 600;
+}
