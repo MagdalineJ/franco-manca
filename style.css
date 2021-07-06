@@ -43,9 +43,7 @@ section{
     .red{
         color: red;
     }
-    .two{
-        display: flex;
-      
+   
     
     }
     .half-width{
@@ -95,7 +93,7 @@ section{
     border-radius: 25px;
     box-shadow: 5px 5px 5px 5px;
 }
-#menus{
+ #menus{
 
     margin-left: 250px;
     margin-right: 250px;
@@ -106,4 +104,20 @@ section{
 .three{
     text-align: center;
     font-weight: 600;
+}
+.pages {margin: 30px;
+    
+    text-align: center;
+    
+
+}
+
+
+
+
+
+footer { background-image:linear-gradient(black, gray);
+        color: white;
+   
+        text-align: center;
 }
